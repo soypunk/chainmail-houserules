@@ -375,7 +375,7 @@ If used as Hyperboreans though they should be as good or better at magic than Ma
 | Load a bag with treasures takes 10 minutes.                        |
 | A combat takes 10 minutes.                                         |
 
-| **Reaction, ** | **Initiative, **| **Surprise** | |
+| **Reaction** | | | |
 |---|---|---|---|
 |*1d6*	|*2d6*|	*Reaction*| |
 |1-2	|2-3 |	Hostile, creature might attack| 	(Sword, Coins)|
