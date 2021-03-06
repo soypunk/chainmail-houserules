@@ -1,6 +1,6 @@
 # OD&D + Chainmail House Rules
 
-This game uses OD&D and Chainmail as basis, but is heavily inspired by Forbidden Lore and The Age of Conan, both supplements provided by [Grey-Elf](www.grey-elf.com). 
+This game uses OD&D and Chainmail as basis, but is heavily inspired by Forbidden Lore and The Age of Conan, both supplements provided by [Grey-Elf](http://www.grey-elf.com). 
 
 The game also uses the [Target 20 System](http://www.oedgames.com/target20/) for combat.
 
